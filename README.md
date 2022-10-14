@@ -139,12 +139,12 @@
 - Draw block diagrams of all the components that you want your system to have. Draw.io is a very handy tool for it.
 - Ensure that the final design doesn't have single point of failure. Also, it should be scalable.
 - Glossary of System Design Basics
-• [System Design Basics](https://tinyurl.com/shahpranav1094-sd-glossary)
+	- [System Design Basics](https://tinyurl.com/shahpranav1094-sd-glossary)
 
 - System Design Problems
-	• [Part 1 - Tiny Url, Instagram](https://tinyurl.com/shahpranav1094-sd-1)
-• [Part 2 - Drop Box, Facebook Messenger](https://tinyurl.com/shahpranav1094-sd-2)
-• [Part 3 - Netflix, TypeHead Suggestion, API rate limiter, Web Crawler](https://tinyurl.com/shahpranav1094-sd-3)
-• [Part 4 - Facebook Newsfeed, Yelp, Uber](https://tinyurl.com/shahpranav1094-sd-4)
+	- [Part 1 - Tiny Url, Instagram](https://tinyurl.com/shahpranav1094-sd-1)
+	- [Part 2 - Drop Box, Facebook Messenger](https://tinyurl.com/shahpranav1094-sd-2)
+	- [Part 3 - Netflix, TypeHead Suggestion, API rate limiter, Web Crawler](https://tinyurl.com/shahpranav1094-sd-3)
+	- [Part 4 - Facebook Newsfeed, Yelp, Uber](https://tinyurl.com/shahpranav1094-sd-4)
 
 
