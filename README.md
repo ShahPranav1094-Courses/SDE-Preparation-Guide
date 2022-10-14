@@ -78,7 +78,7 @@
 - [LinkedList Playlist](https://tinyurl.com/shahpranav1094-linkedlist)
 
 
-## Trees
+### Trees
 - Trees is another important topic which is very frequently asked in interviews.
 - We can expect atleast one question on trees in one of the DS algo rounds.
 - Trees have a lot of depth. However, you can only focus on Binary Trees and Binary Search Trees from interview point of view.
