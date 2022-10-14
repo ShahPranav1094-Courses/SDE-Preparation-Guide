@@ -3,7 +3,6 @@
 #### Disclaimer : None of the courses have been curated by me. This is just an attempt to gather all the material at one place. This is the exact same material that I had used for my preparation and in no way I am promoting or neglecting any particular YouTuber. Almost all the content is free except one course which I have stated explicitly.
 
 ### Pre-requisites
-
 - You should have good command over atleast one object oriented programming language. 
 - No need to know 3-4 languages only 1 is sufficient for interview purpose
 - Tech gaint company interviews are mostly language agnostic
@@ -104,35 +103,48 @@
 - [DP Playlist - 1](https://tinyurl.com/shahpranav1094-dp)
 - [DP Playlist - 2](https://tinyurl.com/shahpranav1094-dp-2)
 
-Trie
-
-1. https://tinyurl.com/shahpranav1094-trie
-2. https://tinyurl.com/shahpranav1094-trie-2
-
-
-Strivers SDE Sheet
-
-1. https://tinyurl.com/shahpranav1094-sdesheet-tuf
-
-Design Patterns
-
-1. https://tinyurl.com/shahpranav1094-designpatterns
-
-Low Level Design
-
-1. https://tinyurl.com/shahpranav1094-lld
-
-Data Structures and Algorithms Concepts (Paid)
-
-1. https://tinyurl.com/shahpranav1094-dsalgo-udemy
+### Trie
+- Trie is advance data structure but very useful in problems related to strings.
+- It is very easy to understand Trie if you are good at LinkedList.
+- One of its main application is to provide fast word searches in a long paragraph.
+- [Trie Playlist - 1](https://tinyurl.com/shahpranav1094-trie)
+- [Trie Playlist - 2](https://tinyurl.com/shahpranav1094-trie-2)
 
 
-System Design Problems
-	• Part 1 - https://tinyurl.com/shahpranav1094-sd-1
-	• Part 2 - https://tinyurl.com/shahpranav1094-sd-2
-	• Part 3 - https://tinyurl.com/shahpranav1094-sd-3
-	• Part 4 - https://tinyurl.com/shahpranav1094-sd-4
+### SDE Problems Sheet
+- After completing all the topics you can refer Strivers SDE sheet which contains 150 most likely asked questions.
+- Again this is just for reference and no guarantee that questions will not be asked out of it.
+- [SDE Sheet](https://tinyurl.com/shahpranav1094-sdesheet-tuf)
 
-Glossary of System Design Basics
-	• Part 5 - https://tinyurl.com/shahpranav1094-sd-glossary
-	
+
+# Design Patterns
+- Design patterns are very important toolset to have in object oriented interviews or Low level design interviews.
+- Some of the interviewers do ask a particular design pattern and may ask you to implement it as well.
+- Below playlist explains the design patterns from `Head First Design Patterns` book
+- [Design Patterns Playlist](https://tinyurl.com/shahpranav1094-designpatterns)
+
+# Low Level Design
+- In LLD interviews we are expected to provide a working code for a given problem.
+- Apart from Algorithm for the problem, the way we define classes, approriate use of DS and design patterns matters a lot.
+- Try to create UML diagrams from some sample questions like SnakeLadder, RideShare, BMS, Library Management System etc. 
+- [Low Level Design Playlist](https://tinyurl.com/shahpranav1094-lld)
+
+# System Design
+- System Design is a very open ended interview. There is no one correct solution.
+- Ask as many questions as you have and get better understanding of the problem.
+- Note down the functional and non-functional requirements.
+- Do the back of the envelope calculation if needed.
+- Start with simple system and then scale up as needed.
+- Database selection matters a lot. Your entire interview efforts can go in vain if you propose wrong database.
+- Draw block diagrams of all the components that you want your system to have. Draw.io is a very handy tool for it.
+- Ensure that the final design doesn't have single point of failure. Also, it should be scalable.
+- Glossary of System Design Basics
+• [System Design Basics](https://tinyurl.com/shahpranav1094-sd-glossary)
+
+- System Design Problems
+	• [Part 1 - Tiny Url, Instagram](https://tinyurl.com/shahpranav1094-sd-1)
+• [Part 2 - Drop Box, Facebook Messenger](https://tinyurl.com/shahpranav1094-sd-2)
+• [Part 3 - Netflix, TypeHead Suggestion, API rate limiter, Web Crawler](https://tinyurl.com/shahpranav1094-sd-3)
+• [Part 4 - Facebook Newsfeed, Yelp, Uber](https://tinyurl.com/shahpranav1094-sd-4)
+
+
