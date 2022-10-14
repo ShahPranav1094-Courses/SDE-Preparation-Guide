@@ -1,9 +1,6 @@
-# SDE Preparation Guide
+## You must devote atleast 1-2 hrs daily over a period of 3-6 months for preparation. Consistency is the key. No Cheating :-P
 
 #### Disclaimer : None of the courses have been curated by me. This is just an attempt to gather all the material at one place. This is the exact same material that I had used for my preparation and in no way I am promoting or neglecting any particular YouTuber. Almost all the content is free except one course which I have stated explicitly.
-
-## You must devote atleast 1-2 hrs daily over a period of 3-6 months for preparation.
-## Consistency is the key. No Cheating :-P
 
 ### Pre-requisites
 
