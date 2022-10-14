@@ -13,7 +13,7 @@
 
 - You should have good command over atleast one object oriented programming language. 
 - No need to know 3-4 languages only 1 is sufficient for interview purpose
-- Big companies are mostly language agnostic
+- Tech gaint company interviews are mostly language agnostic
 - If you wish to master a particular object oriented language then just check on YouTube you will be able to find a lot of free and quality content.
   
 #### Printing Patterns
@@ -28,6 +28,7 @@
   
 #### STL
 - It is very important to know STL usage in coding interviews. There is no time to define our own data structures.
+- You should have enough practice on all the STL datastructures without intellisense.
 - [STL in C++](https://tinyurl.com/shahpranav1094-stl-cpp)
 
 
@@ -63,44 +64,57 @@
 
 #### Heap
 - Whenever you are asked to find highest or lowest 'n' elements then thought of using Heap should strike to us. 
-- In C++ Priority_Queue data structure from STL can be used.
+- In C++, Priority_Queue data structure from STL can be used.
+- Also, priority_queue is also used mainly in problems related to intervals. E.g. Merge intervals, Minimum Number of meeting rooms, Meeting Rooms II etc.
 - [Heap Playlist](https://tinyurl.com/shahpranav1094-heap)
+
+#### Recursion
+- A recursive function solves a particular problem by calling a copy of itself and solving smaller subproblems of the original problems
+- No one is directly going to ask questions on recursion directly in an interview.
+- However, recursion is a key factor for solving problems on LinkedList, Trees, Graphs and Dynamic Programming(DP)
+- Try to draw recursion trees for few problems this will give a lot of clarity and you will never be confused on the base case scenarios and will be able to handle recursion problems very easily.
+-  [Recursion Playlist - 1](https://tinyurl.com/shahpranav1094-recursion)
+-  [Recursion Playlist - 2](https://tinyurl.com/shahpranav1094-recursion-2)
 
 
 #### LinkedList
 - Like Binary Search, Linkedlist questions are mostly asked only in telephonic or screening interviews.
 - There are some famous quesitons like Middle of LL, Remove Nth node from end of LL, Reverse LL, LL Cycle etc.
-- Make sure you are good at pointers before attempting problems on LL.
+- Make sure you are good at pointers and recursion before attempting problems on LL.
 - Also, understanding LL will help you to solve problems on Trees
 - [LinkedList Playlist](https://tinyurl.com/shahpranav1094-linkedlist)
 
 
-Trees
+### Trees
+- Trees is another important topic which is very frequently asked in interviews.
+- We can expect atleast one question on trees in one of the DS algo rounds.
+- Trees have a lot of depth. However, you can only focus on Binary Trees and Binary Search Trees from interview point of view.
+- It is good to know what and how Red-Black Trees, 2-3-4 Trees, AVL trees are implemented.
+- There are a lot of questions based on tree traversals
+- You must know inorder, preorder, postorder and level order traversal of trees.
+- Also, most of the questions on trees involve recursion. So please master recursion before attempting any problem on trees.
+- [Trees Playlist](https://tinyurl.com/shahpranav1094-trees)
 
-1. https://tinyurl.com/shahpranav1094-trees
 
+#### Graphs
+- Graphs is another topic similar to DP which seems to be very tough at first glance. But, you can decode it very easily with enough practice.
+- BFS and DFS are the pillars of any graph problem.
+- Personally I had referred to CP algorithm book(link below) for understanding graphs. It has list of questions associated for each sub-topics. Also the way they have explained identification of back edges and articulation points is very descriptive and easy to understand.
+- [Graph Playlist](https://tinyurl.com/shahpranav1094-graph)
+- [CP Algorithm Book](https://tinyurl.com/shahpranav1094-graph-cp)
+
+#### DP (Dynamic Programming)
+- DP is just an extension of recursion with some temporary storage.
+- With enough practice you can master DP.
+- Once, you are able to solve questions on DP then trust me your confidence in coding interviews will be on another level.
+- DP has lot of patterns like 0/1 knapsack, unbounded Knapsack, Grids, Trees, Stocks & MCM etc.
+- [DP Playlist - 1](https://tinyurl.com/shahpranav1094-dp)
+- [DP Playlist - 2](https://tinyurl.com/shahpranav1094-dp-2)
 
 Trie
 
 1. https://tinyurl.com/shahpranav1094-trie
 2. https://tinyurl.com/shahpranav1094-trie-2
-
-Graphs
-1. https://tinyurl.com/shahpranav1094-graph
-2. https://tinyurl.com/shahpranav1094-graph-cp
-https://drive.google.com/file/d/1gPmY95f-39D32V46sTR40Dghdf9HQVSS/view?usp=sharing
-
-
-DP
-
-1. https://tinyurl.com/shahpranav1094-dp
-2. https://tinyurl.com/shahpranav1094-dp-2
-
-
-Recursion
-
-1. https://tinyurl.com/shahpranav1094-recursion
-2. https://tinyurl.com/shahpranav1094-recursion-2
 
 
 Strivers SDE Sheet
