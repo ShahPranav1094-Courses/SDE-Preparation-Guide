@@ -1,7 +1,7 @@
 ## You must devote atleast 1-2 hrs on daily basis over a period of 3-6 months for preparation. 
 ## Consistency & Patience is the key. No Cheating!!!
 
-#### *Disclaimer : None of the courses have been curated by me. This is just an attempt to gather all the material at one place. This is the exact same material that I had used for my preparation and in no way I am promoting or neglecting any particular YouTuber. Almost entire content is free except one course which I have stated explicitly.*
+#### Disclaimer : None of the courses have been curated by me. This is just an attempt to gather all the material at one place. This is the exact same material that I had used for my preparation and in no way I am promoting or neglecting any particular YouTuber. Almost entire content is free except one course which I have stated explicitly.
 
 ## Pre-requisites
 - ##### You should have good command over one object oriented programming language. No need to know 3-4 languages only 1 is sufficient for interview purpose
